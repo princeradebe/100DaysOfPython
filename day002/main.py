@@ -1,3 +1,6 @@
+#Prince Radebe
+#02 February 2023
+# 100 Days of Python
 #If the bill was R150, split between 5 people, with 12% tip
 #Each person should pay (150 / 5) * 1.12 = 33.6
 #Format the result to 2 decimal places = 33.60
