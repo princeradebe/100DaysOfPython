@@ -1,3 +1,8 @@
+# Prince Radebe
+# DAY 004
+# 04 February 2023
+# 100 Days of Python
+
 import random
 from ascii_art import rock, paper, scissors
 
