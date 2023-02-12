@@ -15,6 +15,7 @@ def find_highest_bidder(bidding_record):
             highest_bid = bid_amount
             winner = bidder
     print(f"The winner is {winner} with a bid of R{highest_bid}")
+    print(f"All bids: {bids}")
 
 
 while not bidding_finished:
